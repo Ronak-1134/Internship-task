@@ -1,0 +1,14 @@
+C:\Users\Ronak\Downloads\TatvaSoft-Virtual-Community-Support-main\Backend\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+C:\Users\Ronak\Downloads\TatvaSoft-Virtual-Community-Support-main\Backend\Mission.Entities\bin\Debug\net8.0\Mission.Entities.runtimeconfig.json
+C:\Users\Ronak\Downloads\TatvaSoft-Virtual-Community-Support-main\Backend\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\Ronak\Downloads\TatvaSoft-Virtual-Community-Support-main\Backend\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\Ronak\Downloads\TatvaSoft-Virtual-Community-Support-main\Backend\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+C:\Users\Ronak\Downloads\TatvaSoft-Virtual-Community-Support-main\Backend\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronak\Downloads\TatvaSoft-Virtual-Community-Support-main\Backend\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+C:\Users\Ronak\Downloads\TatvaSoft-Virtual-Community-Support-main\Backend\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+C:\Users\Ronak\Downloads\TatvaSoft-Virtual-Community-Support-main\Backend\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ronak\Downloads\TatvaSoft-Virtual-Community-Support-main\Backend\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+C:\Users\Ronak\Downloads\TatvaSoft-Virtual-Community-Support-main\Backend\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+C:\Users\Ronak\Downloads\TatvaSoft-Virtual-Community-Support-main\Backend\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+C:\Users\Ronak\Downloads\TatvaSoft-Virtual-Community-Support-main\Backend\Mission.Entities\obj\Debug\net8.0\Mission.Entities.genruntimeconfig.cache
+C:\Users\Ronak\Downloads\TatvaSoft-Virtual-Community-Support-main\Backend\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
